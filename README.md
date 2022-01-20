@@ -1,7 +1,7 @@
 # newconfig-masterscript-fakeip-online.yaml
 
 # Download all files by Master Wifi Network Solution
-https://github.com/MasterWifiNetworkSolution/NEW-FAKEIP-REDIR-MASTERWIFI-CFA/archive/refs/heads/main.zip
+https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/archive/refs/heads/main.zip
 
 # Dukung channel saya dengan tekan subscribe di sini
 https://www.youtube.com/c/MasterWiFiNetworkSolution
