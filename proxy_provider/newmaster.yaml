@@ -1,0 +1,9 @@
+proxies:
+- name: masterwifi
+  type: trojan
+  server: sss.masterwifi.xyz
+  port: 443
+  password: sssss-sssss-sssss-sssss-sssss
+  udp: true
+  sni: isibug.com
+  skip-cert-verify: true
