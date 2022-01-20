@@ -152,150 +152,220 @@ rule-providers:
   Applemaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/applemaster.yaml
     path: "./rule_provider/applemaster.yaml"
+	interval: 86400
   Browsermaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/browsermaster.yaml
     path: "./rule_provider/browsermaster.yaml"
+	interval: 86400
   Callofdutymaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/callofdutymaster.yaml
     path: "./rule_provider/callofdutymaster.yaml"
+	interval: 86400
   Deezermaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/deezermaster.yaml
     path: "./rule_provider/deezermaster.yaml"
+	interval: 86400
   Disneymaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/disneymaster.yaml
     path: "./rule_provider/disneymaster.yaml"
+	interval: 86400
   Facebookmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/facebookmaster.yaml
     path: "./rule_provider/facebookmaster.yaml"
+	interval: 86400
   Garenamaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/garenamaster.yaml
     path: "./rule_provider/garenamaster.yaml"
+	interval: 86400
   Iklanmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/iklanmaster.yaml
     path: "./rule_provider/iklanmaster.yaml"
+	interval: 86400
   Instagrammaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/instagrammaster.yaml
     path: "./rule_provider/instagrammaster.yaml"
+	interval: 86400
   LAN:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/LAN.yaml
     path: "./rule_provider/LAN.yaml"
+	interval: 86400
   Langitmusikmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/langitmusikmaster.yaml
     path: "./rule_provider/langitmusikmaster.yaml"
+	interval: 86400
   Mobilegendsmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/mlmaster.yaml
     path: "./rule_provider/mlmaster.yaml"
+	interval: 86400
   Molamaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/molamaster.yaml
     path: "./rule_provider/molamaster.yaml"
+	interval: 86400
   Maxtreammaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/maxtreammaster.yaml
     path: "./rule_provider/maxtreammaster.yaml"
+	interval: 86400
   Netflixmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/netflixmaster.yaml
     path: "./rule_provider/netflixmaster.yaml"
+	interval: 86400
   Nimomaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/nimomaster.yaml
     path: "./rule_provider/nimomaster.yaml"
+	interval: 86400
   Onlineshopmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/onlineshopmaster.yaml
     path: "./rule_provider/onlineshopmaster.yaml"
+	interval: 86400
   Pubgmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/pubgmaster.yaml
     path: "./rule_provider/pubgmaster.yaml"
+	interval: 86400
   Ressomaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/ressomaster.yaml
     path: "./rule_provider/ressomaster.yaml"
+	interval: 86400
   Robloxmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/robloxmaster.yaml
     path: "./rule_provider/robloxmaster.yaml"
+	interval: 86400
   Rctiplusmaster:
     type: file
     behavior: classical
+	https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/rctiplusmaster.yaml
     path: "./rule_provider/rctiplusmaster.yaml"
+	interval: 86400
   Restreammaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/restreammaster.yaml
     path: "./rule_provider/restreammaster.yaml"
+	interval: 86400
   Smulemaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/smulemaster.yaml
     path: "./rule_provider/smulemaster.yaml"
+	interval: 86400
   Soundcloudmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/soundcloudmaster.yaml
     path: "./rule_provider/soundcloudmaster.yaml"
+	interval: 86400
   Starmakermaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/starmakermaster.yaml
     path: "./rule_provider/starmakermaster.yaml"
+	interval: 86400
   Spotifymaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/spotifymaster.yaml
     path: "./rule_provider/spotifymaster.yaml"
+	interval: 86400
   Speedtestmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/speedtestmaster.yaml
     path: "./rule_provider/speedtestmaster.yaml"
+	interval: 86400
   Tiktokmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/tiktokmaster.yaml
     path: "./rule_provider/tiktokmaster.yaml"
+	interval: 86400
   Twittermaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/twittermaster.yaml
     path: "./rule_provider/twittermaster.yaml"
+	interval: 86400
   Universitasmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/universitasmaster.yaml
     path: "./rule_provider/universitasmaster.yaml"
+	interval: 86400
   Vidiomaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/vidiomaster.yaml
     path: "./rule_provider/vidiomaster.yaml"
+	interval: 86400
   Wesingmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/wesingmaster.yaml
     path: "./rule_provider/wesingmaster.yaml"
+	interval: 86400
   Whatsappmaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/whatsappmaster.yaml
     path: "./rule_provider/whatsappmaster.yaml"
+	interval: 86400
   Youtubemaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/youtubemaster.yaml
     path: "./rule_provider/youtubemaster.yaml"
+	interval: 86400
   Zoommaster:
     type: file
     behavior: classical
+	url: https://github.com/MasterWifiNetworkSolution/newconfig-masterscript-fakeip-online.yaml/blob/main/rule_provider/zoommaster.yaml
     path: "./rule_provider/zoommaster.yaml"
+	interval: 86400
 script:
   code: |
     def main(ctx, metadata):
         ruleset_action = {"Iklanmaster": "REJECT",
             "LAN": "DIRECT",
-            "Instagrammaster": "DIRECT",
-            "Tiktokmaster": "DIRECT",
+            "Instagrammaster": "NEWMASTER",
+            "Tiktokmaster": "NEWMASTER",
             "Whatsappmaster": "DIRECT",
             "Deezermaster": "DIRECT",
             "Langitmusikmaster": "DIRECT",
@@ -362,8 +432,8 @@ rules:
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - RULE-SET,Iklanmaster,REJECT
 - RULE-SET,LAN,DIRECT
-- RULE-SET,Instagrammaster,DIRECT
-- RULE-SET,Tiktokmaster,DIRECT
+- RULE-SET,Instagrammaster,NEWMASTER
+- RULE-SET,Tiktokmaster,NEWMASTER
 - RULE-SET,Whatsappmaster,DIRECT
 - RULE-SET,Deezermaster,DIRECT
 - RULE-SET,Langitmusikmaster,DIRECT
